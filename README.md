@@ -14,14 +14,6 @@
 
 </div>
 
-> [!WARNING]
-> **We've moved to GitHub — please reinstall Better Posters (migrated 2026-08-25).**
-> Better Posters is now officially hosted on GitHub. If you installed it from the former GitLab plugin repository, replace that repository and reinstall the plugin:
->
-> 1. In Jellyfin, open **Dashboard -> Plugins -> Repositories** and remove the old **Better Posters** repository that uses `code.neureka.dev`.
-> 2. Add the new repository URL: `https://raw.githubusercontent.com/neurekadev/better-posters/master/manifest.json`
-> 3. Reinstall **Better Posters** from **Dashboard -> Plugins -> Catalog**, then restart Jellyfin.
-
 **Minimum Jellyfin version:** 10.11.10
 
 ## Features
